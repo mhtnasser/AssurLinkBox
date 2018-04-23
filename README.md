@@ -3,7 +3,7 @@
 ## Projet Prérequis
 Cette application à besoin de functionner avec : 
 ~~~
-https://github.com/so-mouga/AssurLink
+https://github.com/mhtnasser/AssurLink
 ~~~
 Assures-toi d'avoir suivi  et qu'aucun service est sur le ports 9999 avant de poursuivre l'installation.
 
@@ -13,7 +13,7 @@ Assures-toi d'avoir suivi  et qu'aucun service est sur le ports 9999 avant de po
 Clone le repository
 
 ~~~
-git clone https://github.com/so-mouga/AssurLink.git
+git clone https://github.com/mhtnasser/AssurLink.git
 ~~~
 
 L'installation est très simple. 
